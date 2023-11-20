@@ -1,6 +1,9 @@
 👋 Hello, I'm Kwabena Aboagye-Heming (@Aboagye-Heming)
+
 👀 I’m interested in React/NextJs, Vue/NuxtJs for frontend, Php/Laravel for backend and Ionic Vue for mobile development . I'm a quick learner and always eager to learn more.
+
 💞️ I’m looking to collaborate on any interesting and challenging projects.
+
 📫 How to reach me: hemingkwabena@gmail.com
 
 <!--
